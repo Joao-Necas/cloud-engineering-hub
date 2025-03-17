@@ -1,0 +1,7 @@
+ Prometheus, Grafana, ELK Stack
+
+Monitored performance metrics with Prometheus.
+
+Visualized data using Grafana dashboards.
+
+Centralized logging with the ELK Stack (Elasticsearch, Logstash, Kibana).
