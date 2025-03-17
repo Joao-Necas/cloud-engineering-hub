@@ -1,5 +1,3 @@
-Contribution Guidelines
-
 Fork the repository
 
 Create a feature branch
@@ -7,3 +5,5 @@ Create a feature branch
 Commit changes with clear messages
 
 Run tests and linting
+
+Submit a pull request
