@@ -1,0 +1,7 @@
+ HashiCorp Vault, AWS Security Hub, Trivy
+
+Managed secrets and sensitive data with HashiCorp Vault.
+
+Conducted security assessments using AWS Security Hub.
+
+Scanned Docker images for vulnerabilities with Trivy.
